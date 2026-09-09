@@ -1,0 +1,12 @@
+
+{
+  "phoneNumbers": {
+    "empty": "",
+    "lessThanTenDigits": "987654321",
+    "valid": "9999988855"
+  },
+
+   "otp": {
+    "staticOtp": "123654"
+  }
+}

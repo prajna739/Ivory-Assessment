@@ -1,0 +1,94 @@
+{
+  "assessmentStatuses": [
+    "Yet to be Started",
+    "In Progress"
+  ],
+ "iadlAssessment": {
+  "title": "Instrumental Activities of Daily Living Scale (IADL)",
+  "status": "Yet to be Started",
+  "questionProgressTotal": 8
+  },
+  "telephoneQuestion": "Ability to use telephone",
+  "telephoneOptions": [
+    "Operates telephone on own initiative — looks up and dials numbers, etc.",
+    "Dials a few well-known numbers",
+    "Answers telephone but does not dial",
+    "Does not use telephone at all"
+  ],
+  "selectedTelephoneOption": "Dials a few well-known numbers",
+     "shoppingQuestion": "Shopping",
+  "shoppingOptions": [
+    "Takes care of all shopping needs independently",
+    "Shops independently for small purchases",
+    "Needs to be accompanied on any shopping trip",
+    "Completely unable to shop"
+  ],
+  "selectedShoppingOption": "Shops independently for small purchases",
+
+  "foodPrepQuestion": "Food preparation",
+  "foodPrepOptions": [
+    "Plans, prepares and serves adequate meals independently",
+    "Prepares adequate meals if supplied with ingredients",
+    "Heats, serves and prepares meals, or prepares meals but does not maintain adequate diet",
+    "Needs to have meals prepared and served"
+  ],
+  "selectedFoodPrepOption": "Prepares adequate meals if supplied with ingredients",
+
+  "housekeepingQuestion": "Housekeeping",
+  "housekeepingOptions": [
+    "Maintains house alone or with occasional assistance (e.g. \"heavy work domestic help\")",
+    "Performs light daily tasks such as dish washing, bed making",
+    "Performs light daily tasks but cannot maintain acceptable level of cleanliness",
+    "Needs help with all home maintenance tasks",
+    "Does not participate in any housekeeping tasks"
+  ],
+  "selectedHousekeepingOption": "Performs light daily tasks such as dish washing, bed making",
+
+  "laundryQuestion": "Laundry",
+  "laundryOptions": [
+    "Does personal laundry completely",
+    "Launders small items — rinses stockings, etc.",
+    "All laundry must be done by others"
+  ],
+  "selectedLaundryOption": "Launders small items — rinses stockings, etc.",
+
+  "transportationQuestion": "Mode of transportation",
+  "transportationOptions": [
+    "Travels independently on public transportation or drives own car",
+    "Arranges own travel via taxi, but does not otherwise use public transportation",
+    "Travels on public transportation when assisted by another",
+    "Travel limited to taxi or automobile with assistance of another",
+    "Does not travel at all"
+  ],
+  "selectedTransportationOption": "Travels on public transportation when assisted by another",
+
+  "medicationsQuestion": "Responsibility for own medications",
+  "medicationsOptions": [
+    "Is responsible for taking medication in correct dosages at correct time",
+    "Takes responsibility if medication is prepared in advance in separate dosages",
+    "Is not capable of dispensing own medication"
+  ],
+  "selectedMedicationsOption": "Takes responsibility if medication is prepared in advance in separate dosages",
+  "updatedMedicationsOption": "Is responsible for taking medication in correct dosages at correct time",
+
+  "financesQuestion": "Ability to handle finances",
+  "financesOptions": [
+    "Manages financial matters independently (budgets, writes checks, pays rent/bills, goes to bank); collects and keeps track of income",
+    "Manages day-to-day purchases but needs help with banking, major purchases, etc.",
+    "Incapable of handling money"
+  ],
+  "selectedFinancesOption": "Manages day-to-day purchases but needs help with banking, major purchases, etc.",
+    "completionSummary": {
+  "assessmentTitle": "Assessment",
+  "status": "Completed"
+    },
+    "firstCompletedIadlAssessment": {
+      "title": "Instrumental Activities of Daily Living Scale (IADL)",
+      "status": "Completed"
+    },
+    "assessmentReport": {
+      "title": "Assessment Report",
+      "downloadButtonName": "Download"
+
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "assessmentStatuses": [
+    "Yet to be Started",
+    "In Progress"
+  ],
+ "pssAssessment": {
+  "title": "Perceived Stress Scale (PSS-10)",
+  "status": "Yet to be Started",
+  "questionProgressTotal": 10
+ },
+    "unexpectedlyQuestion": "Been upset because of something that happened unexpectedly?",
+  "unexpectedlyOptions": [
+  { "number": 1, "text": "Never" },
+  { "number": 2, "text": "Almost Never" },
+  { "number": 3, "text": "Sometimes" },
+  { "number": 4, "text": "Fairly Often" },
+  { "number": 5, "text": "Very Often" }
+],
+"selectedunexpectedlyOption": {
+  "number": 5,
+  "text": "Very Often"
+},
+  "controlQuestion": "Felt that you were unable to control the important things in your life?",
+  "controlOptions": [
+    { "number": 1, "text": "Never" },
+    { "number": 2, "text": "Almost Never" },
+    { "number": 3, "text": "Sometimes" },
+    { "number": 4, "text": "Fairly Often" },
+    { "number": 5, "text": "Very Often" }
+  ],
+  "selectedcontrolOption": { "number": 3, "text": "Sometimes" },
+
+  "nervousStressedQuestion": "Felt nervous and \"stressed\"?",
+  "nervousStressedOptions": [
+    { "number": 1, "text": "Never" },
+    { "number": 2, "text": "Almost Never" },
+    { "number": 3, "text": "Sometimes" },
+    { "number": 4, "text": "Fairly Often" },
+    { "number": 5, "text": "Very Often" }
+  ],
+  "selectednervousStressedOption": { "number": 4, "text": "Fairly Often" },
+
+  "confidentQuestion": "Felt confident about your ability to handle your personal problems?",
+  "confidentOptions": [
+    { "number": 1, "text": "Never" },
+    { "number": 2, "text": "Almost Never" },
+    { "number": 3, "text": "Sometimes" },
+    { "number": 4, "text": "Fairly Often" },
+    { "number": 5, "text": "Very Often" }
+  ],
+  "selectedconfidentOption": { "number": 2, "text": "Almost Never" },
+
+  "goingYourWayQuestion": "Felt that things were going your way?",
+  "goingYourWayOptions": [
+    { "number": 1, "text": "Never" },
+    { "number": 2, "text": "Almost Never" },
+    { "number": 3, "text": "Sometimes" },
+    { "number": 4, "text": "Fairly Often" },
+    { "number": 5, "text": "Very Often" }
+  ],
+  "selectedgoingYourWayOption": { "number": 2, "text": "Almost Never" },
+
+  "copeQuestion": "Found that you could not cope with all the things that you had to do?",
+  "copeOptions": [
+    { "number": 1, "text": "Never" },
+    { "number": 2, "text": "Almost Never" },
+    { "number": 3, "text": "Sometimes" },
+    { "number": 4, "text": "Fairly Often" },
+    { "number": 5, "text": "Very Often" }
+  ],
+  "selectedcopeOption": { "number": 4, "text": "Fairly Often" },
+
+  "irritationsQuestion": "Been able to control irritations in your life?",
+  "irritationsOptions": [
+    { "number": 1, "text": "Never" },
+    { "number": 2, "text": "Almost Never" },
+    { "number": 3, "text": "Sometimes" },
+    { "number": 4, "text": "Fairly Often" },
+    { "number": 5, "text": "Very Often" }
+  ],
+  "selectedirritationsOption": { "number": 3, "text": "Sometimes" },
+
+  "topOfThingsQuestion": "Felt that you were on top of things?",
+  "topOfThingsOptions": [
+    { "number": 1, "text": "Never" },
+    { "number": 2, "text": "Almost Never" },
+    { "number": 3, "text": "Sometimes" },
+    { "number": 4, "text": "Fairly Often" },
+    { "number": 5, "text": "Very Often" }
+  ],
+  "selectedtopOfThingsOption": { "number": 2, "text": "Almost Never" },
+
+  "angeredQuestion": "Been angered because of things that happened that were outside of your control?",
+  "angeredOptions": [
+    { "number": 1, "text": "Never" },
+    { "number": 2, "text": "Almost Never" },
+    { "number": 3, "text": "Sometimes" },
+    { "number": 4, "text": "Fairly Often" },
+    { "number": 5, "text": "Very Often" }
+  ],
+  "selectedangeredOption": { "number": 5, "text": "Very Often" },
+
+  "pilingUpQuestion": "Felt difficulties were piling up so high that you could not overcome them?",
+  "pilingUpOptions": [
+    { "number": 1, "text": "Never" },
+    { "number": 2, "text": "Almost Never" },
+    { "number": 3, "text": "Sometimes" },
+    { "number": 4, "text": "Fairly Often" },
+    { "number": 5, "text": "Very Often" }
+  ],
+  "selectedpilingUpOption": { "number": 3, "text": "Sometimes" },
+  "updatedpilingUpOption": { "number": 5, "text": "Very Often" },
+  "completionSummary": {
+  "assessmentTitle": "Assessment",
+  "status": "Completed"
+},
+"firstCompletedPssAssessment": {
+  "title": "Perceived Stress Scale (PSS-10)",
+  "status": "Completed"
+},
+"assessmentReport": {
+  "title": "Assessment Report",
+  "downloadButtonName": "Download"
+}
+
+}

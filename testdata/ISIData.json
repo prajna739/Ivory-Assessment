@@ -1,0 +1,97 @@
+{
+  "assessmentStatuses": [
+    "Yet to be Started",
+    "In Progress"
+  ],
+ "isiAssessment": {
+  "title": "Insomnia Severity Index (ISI)",
+  "status": "Yet to be Started",
+  "questionProgressTotal": 7
+ },
+   "asleepQuestion": "Difficulty falling asleep",
+  "asleepOptions": [
+  { "number": 1, "text": "None" },
+  { "number": 2, "text": "Mild" },
+  { "number": 3, "text": "Moderate" },
+  { "number": 4, "text": "Severe" },
+  { "number": 5, "text": "Very Severe" }
+],
+"selectedasleepOption": {
+  "number": 5,
+  "text": "Very Severe"
+},
+  "stayingAsleepQuestion": "Difficulty staying asleep",
+  "stayingAsleepOptions": [
+    { "number": 1, "text": "None" },
+    { "number": 2, "text": "Mild" },
+    { "number": 3, "text": "Moderate" },
+    { "number": 4, "text": "Severe" },
+    { "number": 5, "text": "Very Severe" }
+  ],
+  "selectedstayingAsleepOption": { "number": 3, "text": "Moderate" },
+
+  "wakingEarlyQuestion": "Problems waking up too early",
+  "wakingEarlyOptions": [
+    { "number": 1, "text": "None" },
+    { "number": 2, "text": "Mild" },
+    { "number": 3, "text": "Moderate" },
+    { "number": 4, "text": "Severe" },
+    { "number": 5, "text": "Very Severe" }
+  ],
+  "selectedwakingEarlyOption": { "number": 2, "text": "Mild" },
+
+  "satisfactionQuestion": "How satisfied/dissatisfied are you with your current sleep pattern?",
+  "satisfactionOptions": [
+    { "number": 1, "text": "Very Satisfied" },
+    { "number": 2, "text": "Satisfied" },
+    { "number": 3, "text": "Neutral" },
+    { "number": 4, "text": "Dissatisfied" },
+    { "number": 5, "text": "Very Dissatisfied" }
+  ],
+  "selectedsatisfactionOption": { "number": 4, "text": "Dissatisfied" },
+
+  "interferenceQuestion": "To what extent do you consider your sleep problem to interfere with your daily functioning (e.g., daytime fatigue, ability to function at work/daily chores, concentration, memory, mood)?",
+  "interferenceOptions": [
+    { "number": 1, "text": "Not at all Interfering" },
+    { "number": 2, "text": "A Little" },
+    { "number": 3, "text": "Somewhat" },
+    { "number": 4, "text": "Much" },
+    { "number": 5, "text": "Very Much Interfering" }
+  ],
+  "selectedinterferenceOption": { "number": 3, "text": "Somewhat" },
+
+  "noticeableQuestion": "How noticeable to others do you think your sleeping problem is in terms of impairing the quality of your life?",
+  "noticeableOptions": [
+    { "number": 1, "text": "Not at all Noticeable" },
+    { "number": 2, "text": "A Little" },
+    { "number": 3, "text": "Somewhat" },
+    { "number": 4, "text": "Much" },
+    { "number": 5, "text": "Very Much Noticeable" }
+  ],
+  "selectednoticeableOption": { "number": 2, "text": "A Little" },
+  "updatednoticeableOption": { "number": 4, "text": "Much" },
+
+  "worriedQuestion": "How worried/distressed are you about your current sleep problem?",
+  "worriedOptions": [
+    { "number": 1, "text": "Not at all Worried" },
+    { "number": 2, "text": "A Little" },
+    { "number": 3, "text": "Somewhat" },
+    { "number": 4, "text": "Much" },
+    { "number": 5, "text": "Very Much Worried" }
+  ],
+  "selectedworriedOption": { "number": 5, "text": "Very Much Worried" },
+  "selectedmissingOption": { "number": 3, "text": "Occasionally" },
+  "completionSummary": {
+  "assessmentTitle": "Assessment",
+  "status": "Completed"
+
+  },
+  "firstCompletedIsiAssessment": {
+    "title": "Insomnia Severity Index (ISI)",
+    "status": "Completed"
+  },
+  "assessmentReport": {
+    "title": "Assessment Report",
+    "downloadButtonName": "Download"
+  }
+}

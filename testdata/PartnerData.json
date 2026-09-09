@@ -1,0 +1,25 @@
+{
+  "validUser": {
+    "email": "prajna@qaoncloud.com",
+    "password": "ivory@123"
+  },
+  "Phonenumber": {
+    "number": "9999988855",
+    "number1": "9999988877"
+  },
+
+  "username": {
+    "name": "Prajna",
+    "pnumber": "8310076228"
+  },
+
+  "assessment": {
+    "name": "Perceived Stress Scale (PSS-10)", 
+    "name1": "PHQ-9 Depression Assessment",
+    "name2": "GAD-7 Anxiety Assessment",
+    "name3": "Instrumental Activities of Daily Living Scale (IADL)",
+    "name4": "Insomnia Severity Index (ISI)",
+    "name5": "Cognitive Failure Check (CFQ 2.0)",
+    "alreadyAssignedError": "User already has this assessment assigned and is not completed."
+  }
+}
