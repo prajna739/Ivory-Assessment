@@ -1,0 +1,93 @@
+{
+  "assessmentStatuses": [
+    "Yet to be Started",
+    "In Progress"
+  ],
+ "adhdAssessment": {
+  "title": "ADHD Assessment (Kids and Teens)",
+  "status": "Yet to be Started",
+  "questionProgressTotal": 18
+ },
+   "childQuestion": "Does the child often fail to pay close attention to details and/or make careless mistakes in homework or daily tasks? (e.g., makes silly mistakes when writing/typing, misses words, forgets to check work)",
+  "childOptions": [
+    "Yes",
+    "No"
+  ],
+  "selectedChildOption": "Yes",
+    "q2Question": "Does the child find it hard to stay focused on one activity for long? Think about chores as well as play activities. (e.g., starts homework/puzzle/book/drawing but soon gets bored or distracted?)",
+  "q2Options": ["Yes", "No"],
+  "selectedQ2Option": "Yes",
+
+  "q3Question": "Does the child often seem like they are not listening to you even when you are speaking to them directly? (e.g: when you call their name or ask something, they don't look at you or respond even though they can hear you, as if their mind is elsewhere.)",
+  "q3Options": ["Yes", "No"],
+  "selectedQ3Option": "No",
+
+  "q4Question": "Does the child often fail to finish tasks/duties that they have been asked to do? (e.g.: starts homework but leaves it halfway, forgets to put away toys after being told, or doesn't complete small chores.)",
+  "q4Options": ["Yes", "No"],
+  "selectedQ4Option": "Yes",
+
+  "q5Question": "Does the child have trouble organizing things and activities? (e.g., keeps school bag or study table messy, forgets which homework to do first, struggles to plan for exams, or needs repeated reminders to get ready for school on time.)",
+  "q5Options": ["Yes", "No"],
+  "selectedQ5Option": "Yes",
+
+  "q6Question": "Does the child often avoid, dislike, or hesitate to do tasks that need long mental effort? (e.g., reading long books, doing maths or writing homework, or finishing puzzles or projects that take time and focus.)",
+  "q6Options": ["Yes", "No"],
+  "selectedQ6Option": "No",
+
+  "q7Question": "Does the child often lose things needed for school or daily activities? (e.g., pencils, erasers, notebooks, water bottle, lunch box, toys, or school ID card)?",
+  "q7Options": ["Yes", "No"],
+  "selectedQ7Option": "Yes",
+
+  "q8Question": "Is the child easily distracted by things happening around them (e.g., turns to look when hearing a noise, starts talking when others are nearby, gets distracted by TV, phone, or people passing by while studying)?",
+  "q8Options": ["Yes", "No"],
+  "selectedQ8Option": "Yes",
+
+  "q9Question": "Is the child often forgetful in daily activities? (e.g., forgets to bring homework or lunch box, forgets to brush teeth, or needs reminders for simple tasks like closing the door or switching off lights)?",
+  "q9Options": ["Yes", "No"],
+  "selectedQ9Option": "No",
+
+  "q10Question": "Does the child often fidget with or tap their hands or feet, or keep moving around in their seat? (e.g., keeps tapping the desk or swinging/shaking legs or playing with objects, and finds it hard to sit still even when doing homework or eating.)",
+  "q10Options": ["Yes", "No"],
+  "selectedQ10Option": "Yes",
+
+  "q11Question": "Does the child often get up from their seat when they are expected to stay seated? (e.g., stands up during class, at the dining table, during prayer, or while doing homework even when asked to sit still.)",
+  "q11Options": ["Yes", "No"],
+  "selectedQ11Option": "No",
+
+  "q12Question": "Does the child often run around or move too much in situations where they are expected to stay calm or quiet? (e.g., runs or jumps in the classroom or at a restaurant even after being told not to.)",
+  "q12Options": ["Yes", "No"],
+  "selectedQ12Option": "Yes",
+
+  "q13Question": "Does the child find it difficult to play or do leisure activities (not work-linked) in a calm and quiet way? (e.g., makes loud noises or talks loudly while playing indoors, drawing, reading, etc.)",
+  "q13Options": ["Yes", "No"],
+  "selectedQ13Option": "No",
+
+  "q14Question": "Does the child seem to be always active and restless, as if they cannot slow down? (e.g., keeps moving from one place to another, runs or climbs when others are sitting, just cannot sit still, and seems full of energy all the time.)",
+  "q14Options": ["Yes", "No"],
+  "selectedQ14Option": "Yes",
+
+  "q15Question": "Does the child often talk more than expected or keep talking even when others are speaking? (e.g., keeps talking during meal times, keeps interrupting adults during conversations, keeps asking questions or telling stories without pause, or talks loudly even when told to be quiet.)",
+  "q15Options": ["Yes", "No"],
+  "selectedQ15Option": "Yes",
+
+  "q16Question": "Does the child often answer questions before the person has finished speaking? (e.g., quickly shouts out the answer before the teacher completes the question, or interrupts elders by speaking before they finish asking something.)",
+  "q16Options": ["Yes", "No"],
+  "selectedQ16Option": "No",
+
+  "q17Question": "Does the child often find it hard to wait for their turn? (e.g., becomes impatient while waiting in a queue, interrupts others during games, wants to speak before their turn in class, or gets restless while waiting for food or attention at home.)",
+  "q17Options": ["Yes", "No"],
+  "selectedQ17Option": "Yes",
+  "updatedQ17Option": "No",
+
+  "q18Question": "Does the child often interrupt others? (e.g., cuts into adult conversations, jumps into friends' games without waiting for their turn or talks over others during family discussions.)",
+  "q18Options": ["Yes", "No"],
+  "selectedQ18Option": "Yes"
+,
+"resultActions": {
+    "Mixedscore": "Mixed score"
+  },
+  "assessmentReport": {
+    "title": "Assessment Report",
+    "downloadButtonName": "Download"
+  }
+}

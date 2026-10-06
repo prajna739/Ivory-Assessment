@@ -1,0 +1,58 @@
+{
+  "assessmentStatuses": [
+    "Yet to be Started",
+    "In Progress"
+  ],
+ "stressAssessment": {
+  "title": "Cognitive Stress Index",
+  "status": "Yet to be Started",
+  "questionProgressTotal": 8
+ },
+  "mentalQuestion": "Have you felt mentally overloaded or unable to switch off?",
+  "mentalOptions": [
+  { "number": 1, "text": "Not at all" },
+  { "number": 2, "text": "Several days" },
+  { "number": 3, "text": "More than half the days" },
+  { "number": 4, "text": "Nearly every day" }
+],
+"selectedmentalOption": {
+  "number": 4,
+  "text": "Nearly every day"
+},
+"question2": {
+  "question": "Have you felt tense, anxious, or under constant pressure?",
+  "selectedOption": { "number": 1, "text": "Not at all" }
+},
+"question3": {
+  "question": "Have you had difficulty concentrating on tasks?",
+  "selectedOption": { "number": 2, "text": "Several days" }
+},
+"question4": {
+  "question": "Have you found yourself worrying or thinking about work even when not working?",
+  "selectedOption": { "number": 3, "text": "More than half the days" }
+},
+"question5": {
+  "question": "Have you felt mentally tired even after rest?",
+  "selectedOption": { "number": 2, "text": "Several days" }
+},
+"question6": {
+  "question": "Have you felt calm and in control of your day-to-day demands?",
+  "selectedOption": { "number": 3, "text": "More than half the days" }
+},
+"question7": {
+  "question": "Have you had difficulty falling or staying asleep due to stress?",
+  "selectedOption": { "number": 2, "text": "Several days" },
+  "updatedOption": { "number": 4, "text": "Nearly every day" }
+},
+"question8": {
+  "question": "Have you felt easily irritated or overwhelmed by small issues?",
+  "selectedOption": { "number": 3, "text": "More than half the days" }
+},
+"resultActions": {
+    "completeWithMixedScores": "Complete with mixed scores"
+  },
+   "assessmentReport": {
+    "title": "Assessment Report",
+    "downloadButtonName": "Download"
+  }
+}

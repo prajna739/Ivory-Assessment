@@ -1,0 +1,66 @@
+{
+  "assessmentStatuses": [
+    "Yet to be Started",
+    "In Progress"
+  ],
+ "brainfogAssessment": {
+  "title": "Brain Fog Index",
+  "status": "Yet to be Started",
+  "questionProgressTotal": 5
+ },
+   "mentalQuestion": "Mental clarity",
+  "mentalOptions": [
+  { "number": 1, "text": "Very Sharp" },
+  { "number": 2, "text": "Mostly Sharp" },
+  { "number": 3, "text": "Somewhat Foggy" },
+  { "number": 4, "text": "Very Foggy" }
+],
+"selectedmentalOption": {
+  "number": 4,
+  "text": "Very Foggy"
+},
+"focusQuestion": "Focus",
+"focusOptions": [
+  { "number": 1, "text": "Fully Focused" },
+  { "number": 2, "text": "Mostly Focused" },
+  { "number": 3, "text": "Often Distracted" },
+  { "number": 4, "text": "Constantly Distracted" }
+],
+"selectedFocusOption": { "number": 3, "text": "Often Distracted" },
+
+"memoryQuestion": "Memory",
+"memoryOptions": [
+  { "number": 1, "text": "Excellent Recall" },
+  { "number": 2, "text": "Minor Lapses" },
+  { "number": 3, "text": "Frequent Lapses" },
+  { "number": 4, "text": "Very Forgetful" }
+],
+"selectedMemoryOption": { "number": 2, "text": "Minor Lapses" },
+
+"thinkingSpeedQuestion": "Thinking speed",
+"thinkingSpeedOptions": [
+  { "number": 1, "text": "Very quick" },
+  { "number": 2, "text": "Mostly quick" },
+  { "number": 3, "text": "Noticeably slow" },
+  { "number": 4, "text": "Very slow" }
+],
+"selectedThinkingSpeedOption": { "number": 3, "text": "Noticeably slow" },
+"changedThinkingSpeedOption": { "number": 1, "text": "Very quick" },
+
+"mentalEnergyQuestion": "Mental energy",
+"mentalEnergyOptions": [
+  { "number": 1, "text": "Full of energy" },
+  { "number": 2, "text": "Mostly energized" },
+  { "number": 3, "text": "Often drained" },
+  { "number": 4, "text": "Completely drained" }
+],
+"selectedMentalEnergyOption": { "number": 4, "text": "Completely drained" },
+"resultActions": {
+    "Mixedscore": "Mixed score"
+  },
+  "assessmentReport": {
+    "title": "Assessment Report",
+    "downloadButtonName": "Download"
+  }
+
+}

@@ -1,0 +1,17 @@
+{
+  "assessmentStatuses": [
+    "Yet to be Started",
+    "In Progress"
+  ],
+  "cogflexAssessment": {
+    "title": "Cognitive Flexibility Test (COG_FLEX)",
+    "status": "Yet to be Started"
+  },
+  "resultActions": {
+    "Mixedscore": "Mixed score"
+  },
+  "assessmentReport": {
+    "title": "Consultation and Report",
+    "downloadButtonName": "Download"
+  }
+}

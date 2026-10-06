@@ -1,0 +1,57 @@
+{
+  "assessmentStatuses": [
+    "Yet to be Started",
+    "In Progress"
+  ],
+  "emotionalwellnessAssessment": {
+    "title": "Emotional Wellness Assessment",
+    "status": "Yet to be Started",
+    "questionProgressTotal": 4
+  },
+     "anxiousQuestion": "Feeling nervous, anxious, or on edge",
+  "anxiousOptions": [
+  { "number": 0, "text": "Not at all" },
+  { "number": 1, "text": "Several days" },
+  { "number": 2, "text": "More than half the days" },
+  { "number": 3, "text": "Nearly every day" }
+],
+"selectedanxiousOption": {
+  "number": 3,
+  "text": "Nearly every day"
+},
+"worryQuestion": "Not being able to stop or control worrying",
+"worryOptions": [
+  { "number": 0, "text": "Not at all" },
+  { "number": 1, "text": "Several days" },
+  { "number": 2, "text": "More than half the days" },
+  { "number": 3, "text": "Nearly every day" }
+],
+"selectedworryOption": {
+  "number": 2,
+  "text": "More than half the days"
+},
+
+"interestQuestion": "Little interest or pleasure in doing things",
+"interestOptions": [
+  { "number": 0, "text": "Not at all" },
+  { "number": 1, "text": "Several days" },
+  { "number": 2, "text": "More than half the days" },
+  { "number": 3, "text": "Nearly every day" }
+],
+"selectedinterestOption": {
+  "number": 1,
+  "text": "Several days"
+},
+
+"depressedQuestion": "Feeling down, depressed, or hopeless",
+"depressedOptions": [
+  { "number": 0, "text": "Not at all" },
+  { "number": 1, "text": "Several days" },
+  { "number": 2, "text": "More than half the days" },
+  { "number": 3, "text": "Nearly every day" }
+],
+"selecteddepressedOption": {
+  "number": 0,
+  "text": "Not at all"
+}
+}

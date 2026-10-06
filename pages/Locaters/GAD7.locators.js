@@ -1,5 +1,5 @@
 export const GAD7Locators = {
-  dashboardText: (page) => page.getByText('Hey Test123,', { exact: true }),
+  dashboardText: (page) => page.getByText(/^Hey\s+.+,\s*$/),
   assTitle: (page) => page.getByText('GAD-7 Anxiety Assessment', { exact: true }),
   assCardClick: (page) => page.getByText(
   'GAD-7 Anxiety Assessment',

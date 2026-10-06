@@ -1,0 +1,21 @@
+{
+  "assessmentStatuses": [
+    "Yet to be Started",
+    "In Progress"
+  ],
+  "diyAssessment": {
+    "title": "Cognitive Assessment (DIY)",
+    "status": "Yet to be Started"
+  },
+  "videoModal": {
+    "bannerText": "Watch this video before you start",
+    "title": "Watch Before You Start"
+  },
+  "resultActions": {
+    "Mixedscore": "Mixed score"
+  },
+  "assessmentReport": {
+    "title": "Assessment Report",
+    "downloadButtonName": "Download"
+  }
+}

@@ -4,7 +4,7 @@ import { IADL1Locators } from '../pages/Locaters/IADL1.locators';
 import { IADL1Page } from '../pages/Pages/IADL1.Page';
 import loginData from '../testdata/AssloginData.json';
 import iadlData from '../testdata/IADLData.json';
-const LOGIN_URL = 'https://test-assess.liveivory.com/login';
+const LOGIN_URL =loginData.urls.login;
 
 test.describe('Ivory-AssLogin', () => {
 

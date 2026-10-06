@@ -1,0 +1,47 @@
+{
+  "assessmentStatuses": [
+    "Yet to be Started",
+    "In Progress"
+  ],
+ "cogcheckAssessment": {
+  "title": "COGCHECK Assessment",
+  "status": "Yet to be Started",
+  "questionProgressTotal": 15
+ },
+    "forgetQuestion": "Do you find you forget why you went from one part of the house to the other?",
+  "forgetOptions": [
+  { "number": 1, "text": "Never" },
+  { "number": 2, "text": "Very Rarely" },
+  { "number": 3, "text": "Occasionally" },
+  { "number": 4, "text": "Quite Often" },
+  { "number": 5, "text": "Very Often" }
+],
+"selectedaforgetOption": {
+  "number": 1,
+  "text": "Never"
+},
+"assessmentQuestions": [
+  { "number": 2,  "text": "Do you find you forget whether you've turned off a light or a fire or locked the door?", "answer": 2 },
+  { "number": 3,  "text": "Do you fail to hear people speaking to you when you are doing something else?", "answer": 3 },
+  { "number": 4,  "text": "Do you find you forget appointments?", "answer": 1 },
+  { "number": 5,  "text": "Do you find you accidentally throw away the thing you want and keep what you meant to throw away?", "answer": 2 },
+  { "number": 6,  "text": "Do you find you forget what you came to the shops to buy?", "answer": 3 },
+  { "number": 7,  "text": "Do you forget to take your keys with you?", "answer": 1 },
+  { "number": 8,  "text": "Do you forget passwords you need to remember?", "answer": 4 },
+  { "number": 9,  "text": "Do you receive a delivery and forget what you ordered?", "answer": 2 },
+  { "number": 10, "text": "Do you call people by the wrong name?", "answer": 3 },
+  { "number": 11, "text": "In conversations, do you forget people's name even when you know them well?", "answer": 2 },
+  { "number": 12, "text": "Do you get the dates of things mixed up?", "answer": 1 },
+  { "number": 13, "text": "Do you find you go to put objects in the wrong place, like putting something from the cupboard in the fridge?", "answer": 3 },
+  { "number": 14, "text": "Do you leave home and later realise you have forgotten something you intended to bring with you?", "answer": 2 },
+  { "number": 15, "text": "Do you think something is missing, only to later see it where you had already looked?", "answer": 4 }
+],
+"question14RevisedAnswer": 5,
+"resultActions": {
+    "completeWithMixedScores": "Complete with mixed scores"
+  },
+    "assessmentReport": {
+    "title": "Assessment Report",
+    "downloadButtonName": "Download"
+  }
+}

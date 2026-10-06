@@ -1,0 +1,17 @@
+{
+  "assessmentStatuses": [
+    "Yet to be Started",
+    "In Progress"
+  ],
+  "concentrationAssessment": {
+    "title": "Concentration Assessment",
+    "status": "Yet to be Started"
+  },
+  "resultActions": {
+    "Mixedscore": "Mixed score"
+  },
+  "assessmentReport": {
+    "title": "Assessment Report",
+    "downloadButtonName": "Download"
+  }
+}

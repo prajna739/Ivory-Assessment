@@ -1,12 +1,15 @@
-
 {
+  "urls": {
+    "login": "https://test-assess.liveivory.com/login"
+  },
+
   "phoneNumbers": {
     "empty": "",
     "lessThanTenDigits": "987654321",
-    "valid": "9999988855"
+    "valid": "9999988877"
   },
 
-   "otp": {
+  "otp": {
     "staticOtp": "123654"
   }
 }

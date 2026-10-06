@@ -1,0 +1,18 @@
+{
+  "assessmentStatuses": [
+    "Yet to be Started",
+    "In Progress"
+  ],
+
+  "canoneAssessment": {
+    "title": "CANTAB® One",
+    "status": "Yet to be Started"
+  },
+  "resultActions": {
+    "completeWithMixedScores": "Complete with mixed scores"
+  },
+   "assessmentReport": {
+    "title": "Assessment Report",
+    "downloadButtonName": "Download"
+  }
+}

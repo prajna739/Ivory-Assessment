@@ -4,7 +4,7 @@ import { GAD7Locators } from '../pages/Locaters/GAD7.locators';
 import { GAD7Page } from '../pages/Pages/GAD7.Page';
 import loginData from '../testdata/AssloginData.json';
 import gad7Data from '../testdata/GAD7Data.json';
-const LOGIN_URL = 'https://test-assess.liveivory.com/login';
+const LOGIN_URL = loginData.urls.login;
 
 test.describe('Ivory-AssLogin', () => {
 

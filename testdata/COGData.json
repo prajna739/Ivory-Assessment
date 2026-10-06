@@ -1,0 +1,28 @@
+{
+  "assessmentStatuses": [
+    "Yet to be Started",
+    "In Progress"
+  ],
+
+  "cogAssessment": {
+    "title": "Cognitive Flexibility Test (COG_FLEX)",
+    "status": "Yet to be Started"
+  },
+
+  "game": {
+    "name": "Tapping Test",
+
+    "practiceClicks": 5,
+
+    "mainGameClicks": 10,
+
+    "measurementCountdown": 5,
+
+    "expectedTaskAfterCompletion": "Task 2 of 5"
+  },
+  "game2": {
+  "name": "Circle Tapping Test",
+  "practiceClicks": 3,
+  "mainGameClicks": 23
+}
+}

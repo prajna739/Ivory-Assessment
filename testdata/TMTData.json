@@ -1,0 +1,17 @@
+{
+  "assessmentStatuses": [
+    "Yet to be Started",
+    "In Progress"
+  ],
+  "tmtAssessment": {
+    "title": "Trail Making Test (TMT)",
+    "status": "Yet to be Started"
+  },
+  "resultActions": {
+    "Mixedscore": "Mixed score"
+  },
+  "assessmentReport": {
+    "title": "Assessment Report",
+    "downloadButtonName": "Download"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "assessmentStatuses": [
+    "Yet to be Started",
+    "In Progress"
+  ],
+  "k12Assessment": {
+    "title": "K-12 Academic Assessment (Ages 5-18)",
+    "status": "Yet to be Started"
+  },
+  "resultActions": {
+    "Mixedscore": "Mixed score"
+  },
+  "assessmentReport": {
+    "title": "Consultation and Report",
+    "downloadButtonName": "Download"
+  }
+}

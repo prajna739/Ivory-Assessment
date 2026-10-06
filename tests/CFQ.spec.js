@@ -4,7 +4,7 @@ import { CFQLocators } from '../pages/Locaters/CFQ.locators';
 import { CFQPage } from '../pages/Pages/CFQ.Page';
 import loginData from '../testdata/AssloginData.json';
 import cfqData from '../testdata/CFQData.json';
-const LOGIN_URL = 'https://test-assess.liveivory.com/login';
+const LOGIN_URL = loginData.urls.login;
 
 test.describe('Ivory-AssLogin', () => {
 

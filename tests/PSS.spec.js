@@ -4,7 +4,7 @@ import { PSSLocators } from '../pages/Locaters/PSS.locators';
 import { PSSPage } from '../pages/Pages/PSS.Page';
 import loginData from '../testdata/AssloginData.json';
 import pssData from '../testdata/PSSData.json';
-const LOGIN_URL = 'https://test-assess.liveivory.com/login';
+const LOGIN_URL = loginData.urls.login;
 
 test.describe('Ivory-AssLogin', () => {
 

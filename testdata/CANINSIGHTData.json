@@ -1,0 +1,22 @@
+{
+  "assessmentStatuses": [
+    "Yet to be Started",
+    "In Progress"
+  ],
+
+  "caninsightAssessment": {
+    "title": "CANTAB® Insights",
+    "status": "Yet to be Started"
+  },
+    "videoModal": {
+    "bannerText": "Watch this video before you start",
+    "title": "Watch Before You Start"
+  },
+  "resultActions": {
+    "completeWithMixedScores": "Complete with mixed scores"
+  },
+   "assessmentReport": {
+    "title": "Assessment Report",
+    "downloadButtonName": "Download"
+  }
+}

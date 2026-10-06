@@ -4,7 +4,7 @@ import { PHQLocators } from '../pages/Locaters/PHQ.locators';
 import { PHQPage } from '../pages/Pages/PHQ.Page';
 import loginData from '../testdata/AssloginData.json';
 import phqData from '../testdata/PHQData.json';
-const LOGIN_URL = 'https://test-assess.liveivory.com/login';
+const LOGIN_URL = loginData.urls.login;
 
 test.describe('Ivory-AssLogin', () => {
 

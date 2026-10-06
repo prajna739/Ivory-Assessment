@@ -4,7 +4,7 @@ import { ISILocators } from '../pages/Locaters/ISI.locators';
 import { ISIPage } from '../pages/Pages/ISI.Page';
 import loginData from '../testdata/AssloginData.json';
 import isiData from '../testdata/ISIData.json';
-const LOGIN_URL = 'https://test-assess.liveivory.com/login';
+const LOGIN_URL = loginData.urls.login;
 
 test.describe('Ivory-AssLogin', () => {
 

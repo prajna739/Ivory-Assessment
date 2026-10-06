@@ -47,10 +47,10 @@
   "laundryQuestion": "Laundry",
   "laundryOptions": [
     "Does personal laundry completely",
-    "Launders small items — rinses stockings, etc.",
+    "Launders small items — rinses socks, stockings, etc.",
     "All laundry must be done by others"
   ],
-  "selectedLaundryOption": "Launders small items — rinses stockings, etc.",
+  "selectedLaundryOption": "All laundry must be done by others",
 
   "transportationQuestion": "Mode of transportation",
   "transportationOptions": [
